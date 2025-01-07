@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tinytheif.github.io/avoid-detection-by-guards-in-tiny-theif/sitemap.xml
